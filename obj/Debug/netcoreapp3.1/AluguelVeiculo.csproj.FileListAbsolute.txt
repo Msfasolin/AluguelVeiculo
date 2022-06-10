@@ -1,0 +1,14 @@
+C:\Users\Msfasolin\Desktop\Avanade\Exercicio2\AluguelVeiculo\AluguelVeiculo\obj\Debug\netcoreapp3.1\AluguelVeiculo.csproj.AssemblyReference.cache
+C:\Users\Msfasolin\Desktop\Avanade\Exercicio2\AluguelVeiculo\AluguelVeiculo\obj\Debug\netcoreapp3.1\AluguelVeiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Msfasolin\Desktop\Avanade\Exercicio2\AluguelVeiculo\AluguelVeiculo\obj\Debug\netcoreapp3.1\AluguelVeiculo.AssemblyInfoInputs.cache
+C:\Users\Msfasolin\Desktop\Avanade\Exercicio2\AluguelVeiculo\AluguelVeiculo\obj\Debug\netcoreapp3.1\AluguelVeiculo.AssemblyInfo.cs
+C:\Users\Msfasolin\Desktop\Avanade\Exercicio2\AluguelVeiculo\AluguelVeiculo\obj\Debug\netcoreapp3.1\AluguelVeiculo.csproj.CoreCompileInputs.cache
+C:\Users\Msfasolin\Desktop\Avanade\Exercicio2\AluguelVeiculo\AluguelVeiculo\bin\Debug\netcoreapp3.1\AluguelVeiculo.exe
+C:\Users\Msfasolin\Desktop\Avanade\Exercicio2\AluguelVeiculo\AluguelVeiculo\bin\Debug\netcoreapp3.1\AluguelVeiculo.deps.json
+C:\Users\Msfasolin\Desktop\Avanade\Exercicio2\AluguelVeiculo\AluguelVeiculo\bin\Debug\netcoreapp3.1\AluguelVeiculo.runtimeconfig.json
+C:\Users\Msfasolin\Desktop\Avanade\Exercicio2\AluguelVeiculo\AluguelVeiculo\bin\Debug\netcoreapp3.1\AluguelVeiculo.runtimeconfig.dev.json
+C:\Users\Msfasolin\Desktop\Avanade\Exercicio2\AluguelVeiculo\AluguelVeiculo\bin\Debug\netcoreapp3.1\AluguelVeiculo.dll
+C:\Users\Msfasolin\Desktop\Avanade\Exercicio2\AluguelVeiculo\AluguelVeiculo\bin\Debug\netcoreapp3.1\AluguelVeiculo.pdb
+C:\Users\Msfasolin\Desktop\Avanade\Exercicio2\AluguelVeiculo\AluguelVeiculo\obj\Debug\netcoreapp3.1\AluguelVeiculo.dll
+C:\Users\Msfasolin\Desktop\Avanade\Exercicio2\AluguelVeiculo\AluguelVeiculo\obj\Debug\netcoreapp3.1\AluguelVeiculo.pdb
+C:\Users\Msfasolin\Desktop\Avanade\Exercicio2\AluguelVeiculo\AluguelVeiculo\obj\Debug\netcoreapp3.1\AluguelVeiculo.genruntimeconfig.cache
